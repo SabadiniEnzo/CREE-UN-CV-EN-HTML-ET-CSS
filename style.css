@@ -1,0 +1,49 @@
+h1{
+    text-align: center;
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+}
+
+.on-your-ind{
+    background-color: #782221;
+}
+
+address{background-color: #2c1d27;
+color: aliceblue;
+display: flex;
+justify-content: space-between;
+text-align: center;
+}
+
+a{color: aliceblue;}
+
+.information-section1{
+flex-flow: column wrap;
+}
+
+.informations{background-color: #782221;
+}
+
+.principal{
+    display: flex;
+    flex-direction: column;
+}
+
+h2{
+    color: #050300;
+    background-color: #dbc2a4;
+}
+
+.on-your-ind{
+    text-align: center;
+    color: aliceblue;
+}
+
+.adress{display: flex;
+        justify-content: space-between;
+}
+
+footer{
+    background-color: hsl(1, 57%, 30%);
+}
